@@ -30,7 +30,6 @@ main {
     display: flex;
     flex-direction: row;
     height: 150px;
-    gap: 10px;
     flex-direction: column;
     height: 150px;
 }
@@ -39,7 +38,6 @@ main {
     display: flex;
     flex-direction: row;
     height: 150px;
-    gap: 10px;
     flex-direction: column;
     height: 150px;
 }
@@ -48,7 +46,6 @@ main {
     display: flex;
     flex-direction: row;
     height: 150px;
-    gap: 10px;
     flex-direction: column;
     height: 150px;
 }
