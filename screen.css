@@ -4,6 +4,7 @@ body {
     background: #ffff;
     font-family: Helvetica, sans-serif;
     border-top: 15px solid #424242;
+    margin: 0;
 }
 
 main {
@@ -21,7 +22,7 @@ main {
     background: #ffff;
     height: 150px;
     width: 150px;
-    margin: 10px;
+    margin: 20px;
 }
 
 img {
