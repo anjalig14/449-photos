@@ -16,6 +16,7 @@ main {
     display: flex;
     flex-wrap: wrap;
     align-items: space-between;
+    flex-direction: column;
 }
 
 .item {
@@ -23,6 +24,33 @@ main {
     height: 150px;
     width: 150px;
     margin: 20px;
+}
+
+.item1 {
+    display: flex;
+    flex-direction: row;
+    height: 150px;
+    gap: 10px;
+    flex-direction: column;
+    height: 150px;
+}
+
+.item2 {
+    display: flex;
+    flex-direction: row;
+    height: 150px;
+    gap: 10px;
+    flex-direction: column;
+    height: 150px;
+}
+
+.item3 {
+    display: flex;
+    flex-direction: row;
+    height: 150px;
+    gap: 10px;
+    flex-direction: column;
+    height: 150px;
 }
 
 img {
