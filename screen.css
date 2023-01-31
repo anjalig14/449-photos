@@ -47,3 +47,7 @@ main {
 img {
     width: 100%;
 }
+
+.image {
+    background-image: url(images/pinkflower.jpg);
+}
